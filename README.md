@@ -1,0 +1,2 @@
+# XCLogStaticDemo
+XCLogStaticDemo Test
