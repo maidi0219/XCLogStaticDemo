@@ -1,0 +1,47 @@
+PODS:
+  - AFNetworking (2.7.0):
+    - AFNetworking/NSURLConnection (= 2.7.0)
+    - AFNetworking/NSURLSession (= 2.7.0)
+    - AFNetworking/Reachability (= 2.7.0)
+    - AFNetworking/Security (= 2.7.0)
+    - AFNetworking/Serialization (= 2.7.0)
+    - AFNetworking/UIKit (= 2.7.0)
+  - AFNetworking/NSURLConnection (2.7.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.7.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.7.0)
+  - AFNetworking/Security (2.7.0)
+  - AFNetworking/Serialization (2.7.0)
+  - AFNetworking/UIKit (2.7.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - MJExtension (0.3.2)
+  - XCLogStaticDemo (0.1.0):
+    - AFNetworking (~> 2.3)
+    - MJExtension (~> 0.3)
+
+DEPENDENCIES:
+  - XCLogStaticDemo (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - MJExtension
+
+EXTERNAL SOURCES:
+  XCLogStaticDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFNetworking: 8dd5f9b9691e09186393069a12cc3b5ed7c8b511
+  MJExtension: 22417a0858362f4bc63cdb290bde01f5876c939b
+  XCLogStaticDemo: da51b0bb29bca2265dd5832a4b3bb9bce2b011e8
+
+PODFILE CHECKSUM: 87966dc05ee714f3db570a03350fc8a02fbf5176
+
+COCOAPODS: 1.7.0.beta.2

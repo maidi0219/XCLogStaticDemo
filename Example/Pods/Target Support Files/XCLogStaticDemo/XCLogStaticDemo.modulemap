@@ -1,0 +1,6 @@
+framework module XCLogStaticDemo {
+  umbrella header "XCLogStaticDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

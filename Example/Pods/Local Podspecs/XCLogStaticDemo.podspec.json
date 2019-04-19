@@ -1,0 +1,30 @@
+{
+  "name": "XCLogStaticDemo",
+  "version": "0.1.0",
+  "summary": "A short description of XCLogStaticDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/maidi/XCLogStaticDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "784920085@qq.com": "jacy_li@kingdee.com"
+  },
+  "source": {
+    "git": "https://github.com/maidi/XCLogStaticDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XCLogStaticDemo/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ],
+    "MJExtension": [
+      "~> 0.3"
+    ]
+  }
+}

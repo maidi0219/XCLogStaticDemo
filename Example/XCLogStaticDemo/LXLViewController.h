@@ -7,6 +7,7 @@
 //
 
 @import UIKit;
+#import <XCLogStaticDemo/LXLHttpHelper.h>
 
 @interface LXLViewController : UIViewController
 
